@@ -1,0 +1,14 @@
+﻿.project-row {
+    cursor: pointer;
+    
+}.update-proj-form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.update-proj-form input {
+    width: 100px;
+    margin-right: 10px;
+}

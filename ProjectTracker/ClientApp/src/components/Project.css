@@ -1,0 +1,16 @@
+.left-btn {
+    margin-left: 5px !important;
+}
+
+.mr_2{
+    margin-right: 5px !important;
+}
+
+.p-speeddial-button.p-button.p-button-icon-only {
+    height: 30px;
+    width: 30px;
+}
+
+#taskRow {
+    cursor: pointer;
+}
